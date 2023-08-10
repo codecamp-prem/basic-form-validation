@@ -1,9 +1,9 @@
 import './App.css'
-//import { StateForm } from './StateForm'
-import { RefForm } from './RefForm'
+import { StateForm } from './StateForm'
+//import { RefForm } from './RefForm'
 function App() {
-  //return <StateForm/>
-  return <RefForm/>
+  return <StateForm/>
+  //return <RefForm/>
 }
 
 export default App
